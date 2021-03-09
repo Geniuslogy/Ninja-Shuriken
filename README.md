@@ -1,1 +1,1 @@
-# Ninja-Shuriken
+# Android Ninja Shuriken Game
